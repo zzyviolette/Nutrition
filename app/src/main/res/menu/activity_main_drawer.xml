@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/aliment"
+            android:icon="@drawable/ic_action_coffee"
+            android:title="Aliment" />
+        <item
+            android:id="@+id/repas"
+            android:icon="@drawable/ic_action_document"
+            android:title="Repas" />
+        <item
+            android:id="@+id/objectif"
+            android:icon="@drawable/ic_action_gear"
+            android:title="Objectif" />
+        <item
+            android:id="@+id/statistique"
+            android:icon="@drawable/ic_action_bargraph"
+            android:title="Statistique" />
+
+    </group>
+
+
+</menu>
